@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332718532518",
+    "project_id": "sharecircle-c27bd",
+    "storage_bucket": "sharecircle-c27bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332718532518:android:a180160fbe451c5b4c1167",
+        "android_client_info": {
+          "package_name": "com.example.sharecircle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvWs9a79yzUxaPRN6bWnGmA_WXDycMirw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
